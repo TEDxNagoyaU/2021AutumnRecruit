@@ -168,7 +168,7 @@ input, select, textarea {
 		letter-spacing: 0.225em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2428,7 +2428,7 @@ input, select, textarea {
 		padding: 0 2.75em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
+		text-transform: none;
 		white-space: nowrap;
 		overflow: hidden;
 		text-overflow: ellipsis;
@@ -3389,7 +3389,7 @@ input, select, textarea {
 					letter-spacing: 0.225em;
 					outline: 0;
 					text-decoration: none;
-					text-transform: uppercase;
+					text-transform: none;
 				}
 
 					@media screen and (max-width: 736px) {
@@ -3509,7 +3509,7 @@ input, select, textarea {
 						font-size: 0.8em;
 						letter-spacing: 0.225em;
 						padding: 0 1.5em;
-						text-transform: uppercase;
+						text-transform: none;
 					}
 
 						#header nav > ul > li > a.menuToggle {
@@ -3630,7 +3630,7 @@ input, select, textarea {
 
 		#banner p {
 			letter-spacing: 0.225em;
-			text-transform: uppercase;
+			text-transform: none;
 		}
 
 			#banner p a {
@@ -3663,7 +3663,7 @@ input, select, textarea {
 			padding-left: 0.225em;
 			position: absolute;
 			text-align: center;
-			text-transform: uppercase;
+			text-transform: none;
 			width: 16em;
 			z-index: 1;
 		}
@@ -3833,7 +3833,7 @@ input, select, textarea {
 		#main > header p {
 			color: inherit;
 			letter-spacing: 0.225em;
-			text-transform: uppercase;
+			text-transform: none;
 			top: 0;
 		}
 
@@ -3908,7 +3908,7 @@ input, select, textarea {
 			letter-spacing: 0.225em;
 			list-style: none;
 			padding: 0;
-			text-transform: uppercase;
+			text-transform: none;
 		}
 
 			#footer .copyright li {
